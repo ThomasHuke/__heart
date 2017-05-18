@@ -3,7 +3,7 @@
 
 人这一辈子啊，其实哎总有伤心的时候，我感觉做人其实挺难的，最近没钱，跟家长要钱？感觉丢人，自己去赚但是我的目的是好好学习，感觉很难过。。。。
 
-### 我想把 jquery express  bootstrap vue d3 的源码分析一下我的理由如下：
+### 我想把 jquery express  bootstrap vue d3 的[源码](https://github.com/ThomasHuke/sourceCodes)分析一下我的理由如下：
 1. 分析jquery 是为了全面理解js基础，记住哦 是全面理解
 2. 分析express 是为了全面理解使用js来写服务器，其实是基础服务器，之所以放到jquery后面是因为必须全面理解js才能更好的理解服务器端的写法
 3. 分析bootstrap 是为了分析前端 css css和js html标签的写法

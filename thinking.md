@@ -73,4 +73,13 @@ js全家桶 + golang + shellscript
  > 看一个language死不死 就一个准则 用户的热情度，其中 js 和golang都得过最佳语言，所以 你懂得，至于shellscript
  > 我个人认为就跟git一样 是个跟电脑开机差不多的东西，能不会吗？不会就是傻X啊
 
->>>>>>> origin/master
+
+---
+
+### 我决定放弃atom，用在我的mac上实在是太卡了，完全不如 vscode好用。
+
+
+
+
+
+说实话我感觉 atom并不是很好用，有一种卡顿的感觉，而且近期是越来越严重了，所以我选择放弃了atom至于 sub 太简陋了。

@@ -137,3 +137,5 @@ javascript + golang + python + shell script
 
 - 熟练掌握golang Python JavaScript shell script等基本用法，要求基本的写法要掌握
 - 在github上先有的jago，pychine，neo.js，datas.js，budges。分别是golang框架，Python框架，nodejs框架，js框架，前端UI框架。务必在大四这一年完成，目的不是创新就是为了“借鉴”，我希望在此之上，要把coastroad项目也完成了，因为coastroad相当于它们实际的运用，当然框架有了，在邻近找工作的时候，我会凭借我学过的所有的知识和当下所有的能力去完成一个个人简介的网站，要求所有东西一律拥有自主权，争取这个网站能变成一个商用网站---那就是根据用户的习惯和公司的要求公司所需要的人才根据AI 大数据 分布式计算，等思想来完成一个个人简历的自动绘制。
+
+等到完成了这些任务，并且有了收入，或者是有了工作以后，我要休息一个星期，**带上电脑**，跟我老婆出去旅游一星期。

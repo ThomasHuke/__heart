@@ -1,4 +1,4 @@
-# lean [beego](https://www.github.com/ThomasHuke/astaxie/beego)
+# lean [beego](https://www.github.com/astaxie/beego)
 > 学习谢神的beego web 框架。
 
 关键的几个配置文件：

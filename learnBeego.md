@@ -118,3 +118,8 @@ type LogConfig struct {
 
 所以说我们也学会了一些方法那就是：
 嵌套式的struct使用，当然你可以直接不写变量直接将一个struct丢进另一个里面，但是，并不美观和直观，所以我个人是喜欢有这种变量的方式的。
+
+```go
+这样我们的执行器执行的逻辑是这样的，首先执行 Prepare，这个就是 Go 语言中 struct 中寻找方法的顺序，依次往父类寻找。执行 BaseAdminRouter 时，查找他是否有 Prepare 方法，没有就寻找 baseRouter，找到了，那么就执行逻辑，然后在 baseRouter 里面的 this.AppController 即为当前执行的控制器 BaseAdminRouter，因为会执行 BaseAdminRouter.NestPrepare 方法。然后开始执行相应的 Get 方法或者 Post 方法。
+```
+上面这段话我们可以看出，如果执行一个函数，在本struct中没有定义，系统就会找寻它是父struct。

@@ -5,7 +5,7 @@
 - [数据结构]()
 - [mysql数据库]()
 - [redis数据库]()
-- [go语言圣经]()
+- [go语言圣经](https://github.com/ThomasHuke/books/blob/master/gopl-zh.pdf)
 - [go教程1]()
 - [go教程2]()
 - [go examples]()
